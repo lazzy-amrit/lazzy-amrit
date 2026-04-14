@@ -1,69 +1,69 @@
 <!-- ===================== AMRIT VEX ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00f5ff&height=160&section=header&text=AMRIT%20VEX&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00f5ff&height=170&section=header&text=AMRIT%20VEX&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Python+Developer;FastAPI+Backend+Builder;Linux+%7C+APIs+%7C+Systems;Building+real+world+projects+step+by+step"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Frontend+%7C+Backend+Developer;Python+%7C+FastAPI+%7C+JavaScript+Learner;HTML+CSS+JS+%7C+React+Basics;Arch+Linux+User+%F0%9F%90%BA;Building+real+projects+step+by+step"/>
 </p>
 
 ---
 
-## 🧠 PROFILE
+## 🧠 ABOUT ME
 
-Amrit — backend developer in progress.
+I’m Amrit — a builder focused on learning by doing.
 
-Focused on building real systems using Python and FastAPI.  
-Not chasing trends. Just building strong fundamentals and real projects.
+I enjoy creating real projects, breaking things, fixing them, and slowly turning ideas into working systems.
 
----
-
-## ⚙️ CURRENT FOCUS
-
-- Python backend development
-- FastAPI APIs & authentication systems
-- Database integration
-- Clean system design thinking
-- Linux workflow (Arch user)
+I don’t rush frameworks — I understand fundamentals first.
 
 ---
 
-## 🚀 PROJECT DIRECTION
+## ⚙️ CURRENT STACK
 
-Right now building:
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React (basic)
 
-- REST API systems
-- Auth systems (JWT, sessions)
-- Backend utilities
-- Real-world practice projects
+Backend:
+- Python
+- FastAPI
 
-Goal: **Strong backend engineer, not just a framework user.**
+Tools:
+- Git & GitHub
+- Linux (Arch btw 🐺)
+
+---
+
+## 🚀 WHAT I’M BUILDING
+
+- REST API systems (FastAPI)
+- Authentication systems (JWT, sessions)
+- Backend practice projects
+- Frontend UI experiments
+- Full-stack learning projects
 
 ---
 
 ## 🎯 QUEST SYSTEM
 
-**MAIN QUEST**
-- Master FastAPI backend development
+### 🧩 MAIN QUEST
+Master full backend development with Python + FastAPI
 
-**SIDE QUESTS**
-- Build production-style API projects
-- Learn database design properly
-- Improve system architecture thinking
-- Deploy real projects online
+### ⚔️ SIDE QUESTS
+- Improve frontend skills (HTML/CSS/JS/React)
+- Learn database systems properly
+- Build full-stack projects
+- Understand deployment basics
 
-**COMPLETED**
+### 🏁 COMPLETED
 - Python basics ✔
 - Git & GitHub ✔
 - Linux setup (Arch) ✔
-
----
-
-## 🧰 STACK
-
-Python • FastAPI • Git • Linux • REST APIs  
-(Currently expanding into databases & deployment)
+- Basic backend understanding ✔
 
 ---
 
@@ -79,7 +79,7 @@ Python • FastAPI • Git • Linux • REST APIs
 
 ---
 
-## 🐍 CONTRIBUTION FLOW
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
@@ -87,19 +87,23 @@ Python • FastAPI • Git • Linux • REST APIs
 
 ---
 
-## 🌐 LINKS
+## 🧬 PHILOSOPHY
 
-- Portfolio → https://amritvex.site  
-- Discord → https://discord.gg/KxVp7nSN  
-- GitHub → https://github.com/Amrit  
+Learn deeply. Build slowly. Ship consistently.
 
 ---
 
-## 🧬 FINAL NOTE
+## 🌐 LINKS
 
-Consistency beats intensity.
+- 🌍 Portfolio → https://amritvex.site  
+- 💬 Discord → https://discord.gg/KxVp7nSN  
+- 🐙 GitHub → https://github.com/Amrit  
 
-Build → Break → Fix → Understand → Repeat.
+---
+
+## 🧠 FINAL LINE
+
+Arch Linux user. Builder mindset. Always upgrading.
 
 ---
 
