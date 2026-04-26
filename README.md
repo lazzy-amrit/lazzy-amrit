@@ -70,11 +70,11 @@ Master full backend development with Python + FastAPI
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrit&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lazzy-amrit&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
