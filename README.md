@@ -97,7 +97,7 @@ Learn deeply. Build slowly. Ship consistently.
 
 - 🌍 Portfolio → https://amritvex.site  
 - 💬 Discord → https://discord.gg/KxVp7nSN  
-- 🐙 GitHub → https://github.com/Amrit  
+- 🐙 GitHub → already there :)  
 
 ---
 
