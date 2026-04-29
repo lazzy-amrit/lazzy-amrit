@@ -82,7 +82,7 @@ Master full backend development with Python + FastAPI
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
