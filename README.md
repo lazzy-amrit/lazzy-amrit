@@ -30,6 +30,7 @@ class Amrit:
         self.frontend = ["HTML", "CSS", "JavaScript", "React Basics"]
         self.os = "Arch Linux"
         self.mindset = "Learn deeply. Build consistently."
+```
 
 I like building real things instead of only watching tutorials.
 
