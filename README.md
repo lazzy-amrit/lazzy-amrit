@@ -111,4 +111,3 @@ Arch Linux user. Builder mindset. Always upgrading.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f0f0f&height=120&section=footer"/>
 </p>
-there is a error on the card area image not loading one solve it and make this more better if needed
