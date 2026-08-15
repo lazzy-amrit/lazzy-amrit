@@ -71,6 +71,10 @@ Master full backend development with Python + FastAPI
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/graph?username=lazzy-amrit&theme=tokyonight" alt="Contribution Graph"/>
+</p>
+
 ---
 
 ## 🧬 PHILOSOPHY
