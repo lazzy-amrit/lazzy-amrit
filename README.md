@@ -1,11 +1,9 @@
 <!-- ===================== AMRIT VEX ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00f5ff&height=170&section=header&text=AMRIT%20VEX&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Frontend+%7C+Backend+Developer;Python+%7C+FastAPI+%7C+JavaScript+Learner;HTML+CSS+JS+%7C+React+Basics;Arch+Linux+User+%F0%9F%90%BA;Building+real+projects+step+by+step"/>
 </p>
 
@@ -14,9 +12,7 @@
 ## 🧠 ABOUT ME
 
 I’m Amrit — a builder focused on learning by doing.
-
 I enjoy creating real projects, breaking things, fixing them, and slowly turning ideas into working systems.
-
 I don’t rush frameworks — I understand fundamentals first.
 
 ---
@@ -24,62 +20,55 @@ I don’t rush frameworks — I understand fundamentals first.
 ## ⚙️ CURRENT STACK
 
 Frontend:
-
-* HTML
-* CSS
-* JavaScript
-* React (basic)
+- HTML
+- CSS
+- JavaScript
+- React (basic)
 
 Backend:
-
-* Python
-* FastAPI
+- Python
+- FastAPI
 
 Tools:
-
-* Git & GitHub
-* Linux (Arch btw 🐺)
+- Git & GitHub
+- Linux (Arch btw 🐺)
 
 ---
 
 ## 🚀 WHAT I’M BUILDING
 
-* REST API systems (FastAPI)
-* Authentication systems (JWT, sessions)
-* Backend practice projects
-* Frontend UI experiments
-* Full-stack learning projects
+- REST API systems (FastAPI)
+- Authentication systems (JWT, sessions)
+- Backend practice projects
+- Frontend UI experiments
+- Full-stack learning projects
 
 ---
 
 ## 🎯 QUEST SYSTEM
 
 ### 🧩 MAIN QUEST
-
 Master full backend development with Python + FastAPI
 
 ### ⚔️ SIDE QUESTS
-
-* Improve frontend skills (HTML/CSS/JS/React)
-* Learn database systems properly
-* Build full-stack projects
-* Understand deployment basics
+- Improve frontend skills (HTML/CSS/JS/React)
+- Learn database systems properly
+- Build full-stack projects
+- Understand deployment basics
 
 ### 🏁 COMPLETED
-
-* Python basics ✔
-* Git & GitHub ✔
-* Linux setup (Arch) ✔
-* Basic backend understanding ✔
+- Python basics ✔
+- Git & GitHub ✔
+- Linux setup (Arch) ✔
+- Basic backend understanding ✔
 
 ---
 
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img height="180em" src="./profile/stats.svg"/>
-
-  <img height="180em" src="./profile/top-langs.svg"/>
+  <img height="180em" src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/master/generated/overview.svg"/>
+  <img height="180em" src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/master/generated/languages.svg"/>
 </p>
 
 ---
@@ -92,9 +81,9 @@ Learn deeply. Build slowly. Ship consistently.
 
 ## 🌐 LINKS
 
-* 🌍 Portfolio → https://amritvex.site
-* 💬 Discord → https://discord.gg/KxVp7nSN
-* 🐙 GitHub → already there :)
+- 🌍 Portfolio → https://amritvex.site
+- 💬 Discord → https://discord.gg/KxVp7nSN
+- 🐙 GitHub → already there :)
 
 ---
 
