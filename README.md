@@ -24,56 +24,62 @@ I don’t rush frameworks — I understand fundamentals first.
 ## ⚙️ CURRENT STACK
 
 Frontend:
-- HTML
-- CSS
-- JavaScript
-- React (basic)
+
+* HTML
+* CSS
+* JavaScript
+* React (basic)
 
 Backend:
-- Python
-- FastAPI
+
+* Python
+* FastAPI
 
 Tools:
-- Git & GitHub
-- Linux (Arch btw 🐺)
+
+* Git & GitHub
+* Linux (Arch btw 🐺)
 
 ---
 
 ## 🚀 WHAT I’M BUILDING
 
-- REST API systems (FastAPI)
-- Authentication systems (JWT, sessions)
-- Backend practice projects
-- Frontend UI experiments
-- Full-stack learning projects
+* REST API systems (FastAPI)
+* Authentication systems (JWT, sessions)
+* Backend practice projects
+* Frontend UI experiments
+* Full-stack learning projects
 
 ---
 
 ## 🎯 QUEST SYSTEM
 
 ### 🧩 MAIN QUEST
+
 Master full backend development with Python + FastAPI
 
 ### ⚔️ SIDE QUESTS
-- Improve frontend skills (HTML/CSS/JS/React)
-- Learn database systems properly
-- Build full-stack projects
-- Understand deployment basics
+
+* Improve frontend skills (HTML/CSS/JS/React)
+* Learn database systems properly
+* Build full-stack projects
+* Understand deployment basics
 
 ### 🏁 COMPLETED
-- Python basics ✔
-- Git & GitHub ✔
-- Linux setup (Arch) ✔
-- Basic backend understanding ✔
+
+* Python basics ✔
+* Git & GitHub ✔
+* Linux setup (Arch) ✔
+* Basic backend understanding ✔
 
 ---
 
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="./profile/stats.svg"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </p>
 
 ---
@@ -86,9 +92,9 @@ Learn deeply. Build slowly. Ship consistently.
 
 ## 🌐 LINKS
 
-- 🌍 Portfolio → https://amritvex.site  
-- 💬 Discord → https://discord.gg/KxVp7nSN  
-- 🐙 GitHub → already there :)
+* 🌍 Portfolio → https://amritvex.site
+* 💬 Discord → https://discord.gg/KxVp7nSN
+* 🐙 GitHub → already there :)
 
 ---
 
