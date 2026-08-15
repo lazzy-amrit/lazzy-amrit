@@ -57,7 +57,7 @@ Master full backend development with Python + FastAPI
 - Understand deployment basics
 
 ### 🏁 COMPLETED
-- Python basics ✔
+- Python mastery ✔
 - Git & GitHub ✔
 - Linux setup (Arch) ✔
 - Basic backend understanding ✔
@@ -67,12 +67,16 @@ Master full backend development with Python + FastAPI
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/graph?username=lazzy-amrit&theme=tokyonight" alt="Contribution Graph"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=lazzy-amrit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazzy-amrit&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
 ---
