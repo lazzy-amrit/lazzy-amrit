@@ -71,17 +71,9 @@ Master full backend development with Python + FastAPI
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-```
-
-
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/output/github-contribution-grid-snake.svg"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -96,7 +88,7 @@ Learn deeply. Build slowly. Ship consistently.
 
 - 🌍 Portfolio → https://amritvex.site  
 - 💬 Discord → https://discord.gg/KxVp7nSN  
-- 🐙 GitHub → already there :)  
+- 🐙 GitHub → already there :)
 
 ---
 
