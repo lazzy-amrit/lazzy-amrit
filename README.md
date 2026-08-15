@@ -67,8 +67,8 @@ Master full backend development with Python + FastAPI
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img height="180em" src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/master/generated/overview.svg"/>
-  <img height="180em" src="https://raw.githubusercontent.com/lazzy-amrit/lazzy-amrit/master/generated/languages.svg"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
