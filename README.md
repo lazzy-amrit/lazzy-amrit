@@ -1,10 +1,10 @@
 <!-- ===================== AMRIT VEX ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00f5ff&height=170&section=header&text=AMRIT%20VEX&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+  <img alt="AMRIT VEX header banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00f5ff&height=170&section=header&text=AMRIT%20VEX&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Frontend+%7C+Backend+Developer;Python+%7C+FastAPI+%7C+JavaScript+Learner;HTML+CSS+JS+%7C+React+Basics;Arch+Linux+User+%F0%9F%90%BA;Building+real+projects+step+by+step"/>
+  <img alt="Typing animation: Frontend | Backend Developer, Python | FastAPI, HTML CSS JS | React Basics, Arch Linux User" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=700&lines=Frontend+%7C+Backend+Developer;Python+%7C+FastAPI+%7C+JavaScript+Learner;HTML+CSS+JS+%7C+React+Basics;Arch+Linux+User+%F0%9F%90%BA;Building+real+projects+step+by+step"/>
 </p>
 
 ---
@@ -19,17 +19,17 @@ I don’t rush frameworks — I understand fundamentals first.
 
 ## ⚙️ CURRENT STACK
 
-Frontend:
+**Frontend**
 - HTML
 - CSS
 - JavaScript
 - React (basic)
 
-Backend:
+**Backend**
 - Python
 - FastAPI
 
-Tools:
+**Tools**
 - Git & GitHub
 - Linux (Arch btw 🐺)
 
@@ -67,16 +67,18 @@ Master full backend development with Python + FastAPI
 ## 📊 GITHUB STATUS
 
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180" alt="Amrit's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=lazzy-amrit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lazzy-amrit&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=lazzy-amrit&theme=tokyonight&hide_border=true" alt="GitHub Streak"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=lazzy-amrit&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazzy-amrit&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=lazzy-amrit&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -102,5 +104,5 @@ Arch Linux user. Builder mindset. Always upgrading.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f0f0f&height=120&section=footer"/>
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:0f0f0f&height=120&section=footer"/>
 </p>
